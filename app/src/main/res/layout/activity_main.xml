@@ -18,6 +18,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/listViewKategorie"
-        android:entries="@array/kategorie_string"/>
+        android:entries="@array/kategorie_string"
+        android:divider="#597E27"
+        android:dividerHeight="1dp"
+        android:background="#A1C76C"/>
 
 </LinearLayout>
