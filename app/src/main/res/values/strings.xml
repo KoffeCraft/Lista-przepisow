@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lista Przepisow</string>
+    <string-array name="kategorie_string">
+        <item>Ciasta</item>
+        <item>Przekąski</item>
+        <item>Napoje</item>
+        <item>Potrawy</item>
+    </string-array>
 </resources>
